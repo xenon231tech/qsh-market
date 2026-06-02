@@ -16,14 +16,19 @@
     "professional",
     "marketplace"
   ],
-  "author": "xenon231tech",
+  "author": {
+    "name": "Xenon",
+    "email": "xannrlcs@gmail.com",
+    "url": "https://xenon.dev"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/xenon231tech/qsh-market.git"
   },
   "bugs": {
-    "url": "https://github.com/xenon231tech/qsh-market/issues"
+    "url": "https://github.com/xenon231tech/qsh-market/issues",
+    "email": "xannrlcs@gmail.com"
   },
-  "homepage": "https://github.com/xenon231tech/qsh-market#readme"
+  "homepage": "https://xenon.dev"
 }

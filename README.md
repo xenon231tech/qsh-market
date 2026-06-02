@@ -1,3 +1,9 @@
+# Qsh Market
+
+**Author:** Xenon  
+**Email:** xannrlcs@gmail.com  
+**Website:** https://xenon.dev
+
 # 🖼️ QSH Market
 
 Marketplace NFT untuk mint, list, dan beli NFT dengan mudah
@@ -17,7 +23,7 @@ Marketplace NFT untuk mint, list, dan beli NFT dengan mudah
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/xenon231tech/qsh-market.git
+   git clone https://xenon.dev/qsh-market.git
    cd qsh-market
    ```
 
@@ -81,7 +87,7 @@ The website automatically fetches and displays:
 ### GitHub Pages
 1. Go to repository Settings → Pages
 2. Select "main" branch as source
-3. Website will be live at: `https://xenon231tech.github.io/qsh-market`
+3. Website will be live at: `https://xenon.dev/qsh-market`
 
 ### Vercel
 1. Connect repository to Vercel
@@ -119,7 +125,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-- GitHub: [@xenon231tech](https://github.com/xenon231tech)
+- GitHub: [@xenon231tech](https://xenon.dev)
 - Twitter: [@xenon_d62](https://twitter.com/xenon_d62)
 - Email: contact@xenon.dev
 
